@@ -1,6 +1,6 @@
 # Лабораторные работы по Машинному обучению и Анализу данных
 
-
+0. [Codeforces](./codeforces/README.md)
 1. [Лабораторная №1: kNN](./kNN/README.md)
 2. [Лабораторная №2: Linear](./Linear/README.md)
 3. [Лабораторная №3: DT](./DT/README.md)
